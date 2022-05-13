@@ -4,7 +4,9 @@ Couple of packages used to increase the speed of the development such as for rea
 
 
  # Setup
-To set up the system, required to install couple of packages.
+First install nodejs latest version from the internet.
+
+To set up the environment, required to install couple of packages in the nodejs framework.
 
 npm install csv
 
@@ -12,7 +14,7 @@ npm install axios
 
 npm install node-csv
 
-node crypto
+run the file with: node crypto
 
 
 # Design decisions
